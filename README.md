@@ -6,7 +6,7 @@ fedora workstation x86_64
 g++ (GCC) 8.3.1 20190223 (Red Hat 8.3.1-2)
 cmake version 3.14.0
 
-opencv 安装到 /opt/opencv, 使用 CMake 配置进行编译
+opencv 4.5.3 安装到 /opt/opencv, 使用 CMake 配置进行编译
 
 ```bash
 cmake .
