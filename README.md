@@ -14,6 +14,6 @@ make
 ```
 运行
 
-`./DisplayImage`
+`./DisplayImage lena.jpg`
 
 来源:[tutorial_linux_gcc_cmake](https://docs.opencv.org/4.5.3/db/df5/tutorial_linux_gcc_cmake.html)
